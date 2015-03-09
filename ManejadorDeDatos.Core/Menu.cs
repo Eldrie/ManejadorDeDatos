@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ManejadorDeDatos.Core
 {
-    public class Class1
+    public class Menu
     {
         public static void CrearArchivo(string nombreArchivo) {
             var BD = File.CreateText(nombreArchivo + ".txt");
@@ -15,6 +15,15 @@ namespace ManejadorDeDatos.Core
         }
 
         public static void AgregarArchivos(string campos){
+           
+            string nameBD = campos;
+            string[] columnas;
+            columnas = campos.Split(' ');
+            for (int i = 0; i < columnas.Length; i++)
+            {
+                File.AppendAllText(nameBD, columnas[i] + "|");
+            }
+            File.AppendAllText(nameBD, "\r\n");
 
         }
     }

@@ -28,17 +28,17 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.textBoxCrear = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // textBox1
+            // textBoxCrear
             // 
-            this.textBox1.Location = new System.Drawing.Point(12, 50);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(195, 20);
-            this.textBox1.TabIndex = 0;
+            this.textBoxCrear.Location = new System.Drawing.Point(12, 50);
+            this.textBoxCrear.Name = "textBoxCrear";
+            this.textBoxCrear.Size = new System.Drawing.Size(195, 20);
+            this.textBoxCrear.TabIndex = 0;
             // 
             // label1
             // 
@@ -66,7 +66,7 @@
             this.ClientSize = new System.Drawing.Size(304, 94);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.textBoxCrear);
             this.Name = "Crear";
             this.Text = "Crear";
             this.ResumeLayout(false);
@@ -76,7 +76,7 @@
 
         #endregion
 
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox textBoxCrear;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button button1;
     }

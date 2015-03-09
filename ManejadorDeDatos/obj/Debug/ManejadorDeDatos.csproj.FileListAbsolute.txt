@@ -1,0 +1,10 @@
+C:\Users\Eldrie\Documents\GitHub\ManejadorDeDatos\ManejadorDeDatos\bin\Debug\ManejadorDeDatos.exe.config
+C:\Users\Eldrie\Documents\GitHub\ManejadorDeDatos\ManejadorDeDatos\bin\Debug\ManejadorDeDatos.exe
+C:\Users\Eldrie\Documents\GitHub\ManejadorDeDatos\ManejadorDeDatos\bin\Debug\ManejadorDeDatos.pdb
+C:\Users\Eldrie\Documents\GitHub\ManejadorDeDatos\ManejadorDeDatos\obj\Debug\ManejadorDeDatos.csprojResolveAssemblyReference.cache
+C:\Users\Eldrie\Documents\GitHub\ManejadorDeDatos\ManejadorDeDatos\obj\Debug\ManejadorDeDatos.Form1.resources
+C:\Users\Eldrie\Documents\GitHub\ManejadorDeDatos\ManejadorDeDatos\obj\Debug\ManejadorDeDatos.Properties.Resources.resources
+C:\Users\Eldrie\Documents\GitHub\ManejadorDeDatos\ManejadorDeDatos\obj\Debug\ManejadorDeDatos.csproj.GenerateResource.Cache
+C:\Users\Eldrie\Documents\GitHub\ManejadorDeDatos\ManejadorDeDatos\obj\Debug\ManejadorDeDatos.exe
+C:\Users\Eldrie\Documents\GitHub\ManejadorDeDatos\ManejadorDeDatos\obj\Debug\ManejadorDeDatos.pdb
+C:\Users\Eldrie\Documents\GitHub\ManejadorDeDatos\ManejadorDeDatos\obj\Debug\ManejadorDeDatos.Crear.resources

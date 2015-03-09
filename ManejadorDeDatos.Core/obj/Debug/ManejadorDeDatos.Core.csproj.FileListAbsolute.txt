@@ -1,0 +1,5 @@
+C:\Users\Eldrie\Documents\GitHub\ManejadorDeDatos\ManejadorDeDatos.Core\bin\Debug\ManejadorDeDatos.Core.dll
+C:\Users\Eldrie\Documents\GitHub\ManejadorDeDatos\ManejadorDeDatos.Core\bin\Debug\ManejadorDeDatos.Core.pdb
+C:\Users\Eldrie\Documents\GitHub\ManejadorDeDatos\ManejadorDeDatos.Core\obj\Debug\ManejadorDeDatos.Core.csprojResolveAssemblyReference.cache
+C:\Users\Eldrie\Documents\GitHub\ManejadorDeDatos\ManejadorDeDatos.Core\obj\Debug\ManejadorDeDatos.Core.dll
+C:\Users\Eldrie\Documents\GitHub\ManejadorDeDatos\ManejadorDeDatos.Core\obj\Debug\ManejadorDeDatos.Core.pdb

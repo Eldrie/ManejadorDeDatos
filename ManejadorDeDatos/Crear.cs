@@ -20,7 +20,7 @@ namespace ManejadorDeDatos
 
         private void button1_Click(object sender, EventArgs e)
         {
-          ManejadorDeDatos.Core.Menu.CrearArchivo(textBoxCrear.Text);
+          ManejadorDeDatos.Core.FileManager.CrearArchivo(textBoxCrear.Text);
           this.Close();
         }
     }

@@ -1,6 +1,6 @@
 ﻿namespace ManejadorDeDatos
 {
-    partial class Agregar
+    partial class Definir
     {
         /// <summary>
         /// Required designer variable.
@@ -61,7 +61,7 @@
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
-            // Agregar
+            // Definir
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -69,8 +69,8 @@
             this.Controls.Add(this.button2);
             this.Controls.Add(this.textBoxAgregar);
             this.Controls.Add(this.BtAgregarAceptar);
-            this.Name = "Agregar";
-            this.Text = "Agregar";
+            this.Name = "Definir";
+            this.Text = "Definir";
             this.ResumeLayout(false);
             this.PerformLayout();
 

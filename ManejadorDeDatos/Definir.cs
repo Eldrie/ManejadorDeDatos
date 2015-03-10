@@ -11,9 +11,9 @@ using System.Windows.Forms;
 
 namespace ManejadorDeDatos
 {
-    public partial class Agregar : Form
+    public partial class Definir : Form
     {
-        public Agregar()
+        public Definir()
         {
             InitializeComponent();
         }
@@ -25,7 +25,7 @@ namespace ManejadorDeDatos
 
         private void button1_Click(object sender, EventArgs e)
         {
-            ManejadorDeDatos.Core.Menu.AgregarArchivos(textBoxAgregar.Text);
+            ManejadorDeDatos.Core.FileManager.AgregarArchivos(textBoxAgregar.Text);
             this.Close();
         }
     }

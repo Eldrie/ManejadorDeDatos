@@ -26,7 +26,22 @@ namespace ManejadorDeDatos
 
         private void agregarToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Agregar nuevaPestaña = new Agregar();
+            
+        }
+
+        private void verToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void openFileDialog1_FileOk(object sender, CancelEventArgs e)
+        {
+
+        }
+
+        private void definirToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Definir nuevaPestaña = new Definir();
             nuevaPestaña.Show();
         }
     }
